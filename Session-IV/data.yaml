@@ -1,0 +1,13 @@
+names:
+- fire
+- smoke
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fire-detection-v3-or0i1
+  url: https://universe.roboflow.com/touatimed2/fire-detection-v3-or0i1/dataset/6
+  version: 6
+  workspace: touatimed2
+test: C:\Saket\Coding\IE Robotics & Tectonics SMP-2025\Robotics SMP-2025\Session-IV\Fire-detection-v3-6\test\images
+train: C:\Saket\Coding\IE Robotics & Tectonics SMP-2025\Robotics SMP-2025\Session-IV\Fire-detection-v3-6\train\images
+val: C:\Saket\Coding\IE Robotics & Tectonics SMP-2025\Robotics SMP-2025\Session-IV\Fire-detection-v3-6\valid\images
